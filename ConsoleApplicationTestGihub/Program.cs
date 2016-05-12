@@ -8,7 +8,7 @@ namespace ConsoleApplicationTestGihub
     {
         static void Main(string[] args)
         {
-            int i = 0;
+            int i = 1;
         }
     }
 }
