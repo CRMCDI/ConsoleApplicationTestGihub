@@ -45,3 +45,12 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.suo
+ConsoleApplicationTestGihub/bin/Debug/ConsoleApplicationTestGihub.vshost.exe
+*.manifest
+ConsoleApplicationTestGihub/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+*.exe
+ConsoleApplicationTestGihub/obj/Debug/ConsoleApplicationTestGihub.pdb
+*.pdb
+ConsoleApplicationTestGihub/obj/Debug/ConsoleApplicationTestGihub.csproj.FileListAbsolute.txt
+*.cache
